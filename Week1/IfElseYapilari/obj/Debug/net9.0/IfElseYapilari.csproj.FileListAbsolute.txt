@@ -1,0 +1,15 @@
+/Users/halenurincedere/Desktop/PatikaDev/Week1/IfElseYapilari/bin/Debug/net9.0/IfElseYapilari
+/Users/halenurincedere/Desktop/PatikaDev/Week1/IfElseYapilari/bin/Debug/net9.0/IfElseYapilari.deps.json
+/Users/halenurincedere/Desktop/PatikaDev/Week1/IfElseYapilari/bin/Debug/net9.0/IfElseYapilari.runtimeconfig.json
+/Users/halenurincedere/Desktop/PatikaDev/Week1/IfElseYapilari/bin/Debug/net9.0/IfElseYapilari.dll
+/Users/halenurincedere/Desktop/PatikaDev/Week1/IfElseYapilari/bin/Debug/net9.0/IfElseYapilari.pdb
+/Users/halenurincedere/Desktop/PatikaDev/Week1/IfElseYapilari/obj/Debug/net9.0/IfElseYapilari.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halenurincedere/Desktop/PatikaDev/Week1/IfElseYapilari/obj/Debug/net9.0/IfElseYapilari.AssemblyInfoInputs.cache
+/Users/halenurincedere/Desktop/PatikaDev/Week1/IfElseYapilari/obj/Debug/net9.0/IfElseYapilari.AssemblyInfo.cs
+/Users/halenurincedere/Desktop/PatikaDev/Week1/IfElseYapilari/obj/Debug/net9.0/IfElseYapilari.csproj.CoreCompileInputs.cache
+/Users/halenurincedere/Desktop/PatikaDev/Week1/IfElseYapilari/obj/Debug/net9.0/IfElseYapilari.sourcelink.json
+/Users/halenurincedere/Desktop/PatikaDev/Week1/IfElseYapilari/obj/Debug/net9.0/IfElseYapilari.dll
+/Users/halenurincedere/Desktop/PatikaDev/Week1/IfElseYapilari/obj/Debug/net9.0/refint/IfElseYapilari.dll
+/Users/halenurincedere/Desktop/PatikaDev/Week1/IfElseYapilari/obj/Debug/net9.0/IfElseYapilari.pdb
+/Users/halenurincedere/Desktop/PatikaDev/Week1/IfElseYapilari/obj/Debug/net9.0/IfElseYapilari.genruntimeconfig.cache
+/Users/halenurincedere/Desktop/PatikaDev/Week1/IfElseYapilari/obj/Debug/net9.0/ref/IfElseYapilari.dll
