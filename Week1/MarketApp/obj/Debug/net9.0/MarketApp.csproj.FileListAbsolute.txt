@@ -1,0 +1,15 @@
+/Users/halenurincedere/Desktop/PatikaDev/Week1/MarketApp/bin/Debug/net9.0/MarketApp
+/Users/halenurincedere/Desktop/PatikaDev/Week1/MarketApp/bin/Debug/net9.0/MarketApp.deps.json
+/Users/halenurincedere/Desktop/PatikaDev/Week1/MarketApp/bin/Debug/net9.0/MarketApp.runtimeconfig.json
+/Users/halenurincedere/Desktop/PatikaDev/Week1/MarketApp/bin/Debug/net9.0/MarketApp.dll
+/Users/halenurincedere/Desktop/PatikaDev/Week1/MarketApp/bin/Debug/net9.0/MarketApp.pdb
+/Users/halenurincedere/Desktop/PatikaDev/Week1/MarketApp/obj/Debug/net9.0/MarketApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halenurincedere/Desktop/PatikaDev/Week1/MarketApp/obj/Debug/net9.0/MarketApp.AssemblyInfoInputs.cache
+/Users/halenurincedere/Desktop/PatikaDev/Week1/MarketApp/obj/Debug/net9.0/MarketApp.AssemblyInfo.cs
+/Users/halenurincedere/Desktop/PatikaDev/Week1/MarketApp/obj/Debug/net9.0/MarketApp.csproj.CoreCompileInputs.cache
+/Users/halenurincedere/Desktop/PatikaDev/Week1/MarketApp/obj/Debug/net9.0/MarketApp.sourcelink.json
+/Users/halenurincedere/Desktop/PatikaDev/Week1/MarketApp/obj/Debug/net9.0/MarketApp.dll
+/Users/halenurincedere/Desktop/PatikaDev/Week1/MarketApp/obj/Debug/net9.0/refint/MarketApp.dll
+/Users/halenurincedere/Desktop/PatikaDev/Week1/MarketApp/obj/Debug/net9.0/MarketApp.pdb
+/Users/halenurincedere/Desktop/PatikaDev/Week1/MarketApp/obj/Debug/net9.0/MarketApp.genruntimeconfig.cache
+/Users/halenurincedere/Desktop/PatikaDev/Week1/MarketApp/obj/Debug/net9.0/ref/MarketApp.dll

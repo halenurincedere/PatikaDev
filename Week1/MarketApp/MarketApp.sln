@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketApp", "MarketApp.csproj", "{17A1674F-88CB-423F-9893-FF9993B0BB6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17A1674F-88CB-423F-9893-FF9993B0BB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A1674F-88CB-423F-9893-FF9993B0BB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A1674F-88CB-423F-9893-FF9993B0BB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A1674F-88CB-423F-9893-FF9993B0BB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7883C710-CA35-4C2C-984C-B0C07D9CBE98}
+	EndGlobalSection
+EndGlobal
